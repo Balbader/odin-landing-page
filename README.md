@@ -66,4 +66,11 @@ placeholders, and feel free to play with the colors and fonts a bit too.<br>
 
 6.  When you finish, don't forget to push to GitHub!
 
+## Media
+
+![landing-page](./odin-project.png)
+<br>
+<br>
+![colors-and-stuff](./colors_and_stuff.png)
+
 ### Good Luck and Have Fun ^^
