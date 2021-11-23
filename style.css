@@ -30,6 +30,7 @@ a {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  padding-top: 10px;
   padding-left: 10%;
   padding-right: 10%;
   padding-bottom: 50px;
@@ -69,7 +70,7 @@ a {
 }
 
 .navbar a:hover {
-  color: #29fb20;
+  color: #3572e5;
 }
 
 /*============================================================================*/
@@ -127,6 +128,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 400px;
   padding-left: 10%;
   padding-right: 10%;
 }
@@ -135,22 +137,23 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 30px;
-}
-
-.info-pics img {
-  vertical-align: top;
-  height: 70px;
-  width: 70px;
+  padding-bottom: 30px;
 }
 
 .info-pics {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  padding-left: 30%;
-  padding-right: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.info-pics img {
+  vertical-align: top;
+  height: 90px;
+  width: 90px;
+  margin-top: 40px;
 }
 
 figure {
@@ -158,14 +161,100 @@ figure {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 3px solid #3572e5;
-  border-radius: 5px;
   height: 150px;
   width: 150px;
-  padding: 10px;
 }
 
 figcaption {
   font-size: 15px;
   text-align: center;
+}
+
+/*============================================================================*/
+/* Quote Section */
+/*============================================================================*/
+.quote-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  background: #e8e8e8;
+}
+
+.quote {
+  width: 500px;
+}
+
+.quote p {
+  vertical-align: middle;
+  text-align: left;
+  font-size: 24px;
+}
+
+#mr-mark {
+  text-align: right;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+/*============================================================================*/
+/* Call to Action Section */
+/*============================================================================*/
+
+.cta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.cta-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  width: 600px;
+  background: #3572e5;
+  border: 1px solid #3572e5;
+  border-radius: 5px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.cta-left {
+  width: 500px;
+  color: white;
+}
+
+.cta-title {
+  color: white;
+  font-size: 15px;
+  margin: 0;
+}
+
+.cta-left p {
+  color: #e8e8e8;
+  font-size: 13px;
+}
+
+.cta-button {
+  background: #3572e5;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 20px;
+}
+
+/*============================================================================*/
+/* Footer */
+/*============================================================================*/
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  background: #1f2937;
+  color: white;
+  margin-top: auto;
 }
