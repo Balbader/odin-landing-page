@@ -23,8 +23,8 @@ it pixel-perfect. Don’t get out your ruler or count pixels to find the exact m
 between the various sections. The point of this assignment is to create something
 from scratch and get the various elements in more or less the right position
 relative to the rest. It doesn’t matter if you use
-<span style="color:red">`margin: 24px`</span> when the design actually
-has <span style="color:red">`margin: 48px`.</span><br>
+<span style="color:red">margin: 24px</span> when the design actually
+has <span style="color:red">margin: 48px.</span><br>
 <br>
 _Finally_, feel free to substitute your own content into this design. The images
 have some meaningless dummy content, but if you want to make up a business and
