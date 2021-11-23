@@ -32,7 +32,8 @@ personalize this page, please feel free to do so! Insert actual images in the
 placeholders, and feel free to play with the colors and fonts a bit too.<br>
 <br>
 
-> **A note about images on the web**
+> ## A note about images on the web ##<br>
+>
 > You do not have the legal right to use just any image that you find on the web.
 > There are many free images to be found, but make sure that the image you use is
 > actually free for you to use, and make sure to credit the creator of the image
