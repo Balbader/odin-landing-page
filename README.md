@@ -68,9 +68,9 @@ placeholders, and feel free to play with the colors and fonts a bit too.<br>
 
 ## Media
 
-![](./odin-project.png)
+![](./images/odin-project.png)
 <br>
 <br>
-![](./colors_and_stuff.png)
+![](./images/colors_and_stuff.png)
 
 ### Good Luck and Have Fun ^^
